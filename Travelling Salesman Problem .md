@@ -47,5 +47,5 @@ return min_path
 ## OUTPUT
 <img width="354" height="157" alt="image" src="https://github.com/user-attachments/assets/c8f9da9e-311b-4b14-b256-7c03513fbb18" />
 
-##RESULT
+## RESULT
 Thus the program to find the shortest possible route using the Travelling Salesman Problem (TSP) approach has been implemented and executed successfully.
